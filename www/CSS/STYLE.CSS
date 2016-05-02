@@ -1,0 +1,21 @@
+@import url(reset.css);
+
+#wrapper {
+	width: 1024px;
+	height: 1800px;
+	margin: 0 auto;
+	outline: 1px solid #cccccc;
+}
+
+#toplines {
+	height: 18px;
+	background-image: url(../images/topline.png);
+	background-repeat: repeat-x;
+	background-color: #cccccc;
+}
+
+#header {
+	height: 157px;
+	outline: 1px solid #cc0000;
+
+}
